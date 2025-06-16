@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Roblox Login Simulation</title>
+  </head>
+  <body style="font-family:Arial; text-align:center; padding-top:50px;">
+    <h1>ROBLOX</h1>
+    <p><strong>This is a fake login simulation for educational use only.</strong></p>
+    <form>
+      <input type="text" placeholder="Username / Email / Phone" /><br><br>
+      <input type="password" placeholder="Password" /><br><br>
+      <button type="button">Log In</button>
+    </form>
+  </body>
+</html>
+add index. html
